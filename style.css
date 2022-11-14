@@ -1,0 +1,103 @@
+
+.container{
+    background-color: #5c5959;;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   font-family: sans-serif;
+
+  
+}
+
+.collapse{
+    font-weight: 650;
+    
+}
+.collapse ul li a:hover{
+    color: rgb(201, 42, 42);
+}
+
+.title{
+    font-weight: 500;
+}
+.cards{
+    margin-left: 5px;
+    border-radius: 20px;
+}
+@media screen  {
+    
+}
+.stroys{
+    margin-left: 10px;
+}
+
+.buutoon{
+    display: block;
+    position: absolute;
+    left: 50%;
+    margin-bottom: 10px;
+
+
+}
+.share{
+    
+    background-color: #e2e2e2;
+}
+.share h6{
+    color: red;
+    padding: 10px;
+}
+.taggs{
+    background-color: #e2e2e2;
+}
+.featured h1{
+    margin-left: 20px;
+    background-color:#008cce;
+    color: white;
+
+    
+    font-weight: bold;
+    
+}
+.featured p{
+    background-color: #e2e2e2;
+    
+}
+.feature h1{
+    margin-left: 20px;
+    background-color:#008cce;
+    color: white;
+}
+.feature p:hover{
+    
+    border-radius: 10px;
+    background-color: rgb(240, 91, 33);
+    color: #fff;
+    transition: .4s;
+}
+.login{
+    padding: 25px;
+    margin-left: 17px;
+    border: 0.1px solid;
+    box-shadow: 1px 2px 3px 3px rgb(78, 59, 22);
+}
+.col-lg-2 h6{
+    font-weight: bold;
+    margin-top: 5px;
+    color: rgb(255, 94, 0);
+    padding: 10px;
+}
+
+.col-lg-2 p:hover{
+    color: rgb(175, 119, 16);
+    
+}
+.footerss{
+    background-color: rgb(226, 226, 219);
+}
+.footerss i{
+    color: #fff;
+    background-color: #008cce;
+    padding: 10px;
+    border-radius: 50%;
+}
